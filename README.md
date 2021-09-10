@@ -1,10 +1,10 @@
-### Hi there 👋, I'm **Shreyansh Raj Keshri**
+### Hi there 👋
 
 
-- 👋 Hi, I’m Shreyansh Raj Keshri
+- I’m Shreyansh Raj Keshri
 - 💻 Code for Tata Sky OTT iOS App
-- 👀 I’m interested in iOS App Development
-- 🌱 I’m currently learning Swift 5
+- 👀 Interested in iOS App Development
+- 🌱 Currently learning Data Structure and Algorithms with C++
 - 📫 How to reach me : srkeshri.srk@gmail.com
 
 ![alt text](https://camo.githubusercontent.com/5b5d35ee073ed03fd7a6f7cf762856e47444168bae1f79d6f5eb28d385b0aa44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4645434530303f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d333737364142 "Python")
