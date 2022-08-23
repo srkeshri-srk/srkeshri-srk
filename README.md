@@ -1,27 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyansh Raj Keshri</h1>
+<h3 align="center">iOS Developer at Gaana.com</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srkeshri-srk&label=Profile%20views&color=0e75b6&style=flat" alt="srkeshri-srk" /> </p>
 
-- I’m Shreyansh Raj Keshri
-- 💻 Code for Tata Sky OTT iOS App
-- 👀 Interested in iOS App Development
-- 🌱 Currently learning Data Structure and Algorithms with C++
-- 📫 How to reach me : srkeshri.srk@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srkeshri-srk" alt="srkeshri-srk" /></a> </p>
 
-![alt text](https://camo.githubusercontent.com/5b5d35ee073ed03fd7a6f7cf762856e47444168bae1f79d6f5eb28d385b0aa44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4645434530303f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d333737364142 "Python")
-![alt text](https://camo.githubusercontent.com/c7377fd726ab9c7552cab2f710bd2f9db609bdc3b999f7a426f24d3220742d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63 "C")
-![alt text](https://camo.githubusercontent.com/09b774bf31b3e09295293d876e271b9f38907df161055a333fdb3b38e3c1111d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c6174266c6f676f3d63253262253262 "C++")
+- 🔭 I’m currently working on [Gaana.com](https://apps.apple.com/in/app/gaana-music-songs-podcasts/id585270521)
 
-<!--
-**srkeshri-srk/srkeshri-srk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **srkeshri.srk@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/srkeshrisrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srkeshrisrk" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srkeshri-srk&show_icons=true&locale=en&layout=compact" alt="srkeshri-srk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srkeshri-srk&show_icons=true&locale=en" alt="srkeshri-srk" /></p>
